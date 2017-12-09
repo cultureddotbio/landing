@@ -1,6 +1,6 @@
 {
   "title": "Landing Page",
-  "name": "startbootstrap-landing-page",
+  "name": "landing",
   "version": "4.0.0-beta.2",
   "description": "An HTML landing page template built with Bootstrap",
   "keywords": [
@@ -11,10 +11,10 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/landing-page",
+  "homepage": "https://cultureddotbio.github.io/landing",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-landing-page/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/cultureddotbio/landing/issues",
+    "email": "javentous@gmail.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
