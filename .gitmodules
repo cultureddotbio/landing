@@ -1,6 +1,0 @@
-[submodule "dev-demo"]
-	path = dev-demo
-	url = https://github.com/cultureddotbio/dev-demo
-[submodule "SP-1.0-jawadtest"]
-	path = SP-1.0-jawadtest
-	url = https://github.com/cultureddotbio/SP-1.0-jawadtest.git
