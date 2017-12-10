@@ -1,0 +1,6 @@
+[submodule "SP-1.0"]
+	path = dev/SP-1.0
+	url = https://github.com/cultureddotbio/SP-1.0.git
+[submodule "SP-1.1"]
+	path = dev/SP-1.1
+	url = https://github.com/cultureddotbio/SP-1.1.git
